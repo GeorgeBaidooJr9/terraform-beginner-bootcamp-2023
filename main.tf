@@ -10,7 +10,8 @@ terraform {
   #cloud {
   #  organization = "ExamPro"
   #  workspaces {
-  #    name = "terra-house-1"
+  #    name = "terra-house-2"
+  #This is a new change"
   #  }
   #}
 
